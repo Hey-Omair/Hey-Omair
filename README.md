@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omair</h1>
-<h3 align="center">A Aspiring Developer from India</h3>
+<h3 align="center">An Aspiring Developer from India</h3>
 
 - 🔭 I’m currently working on [basketball shot tracker](https://github.com/Hey-Omair/basketball-shot-detection)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **omairmalik51@gmail.com**
 
-- ⚡ Fun fact **im curios about learning new things no matter the topic**
+- ⚡ Fun fact **im curious about learning new things no matter the topic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
